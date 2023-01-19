@@ -1,0 +1,27 @@
+{
+    "nodes":[
+        { "IP":"","Port":"","Name" : "","PassWord" : ""},
+        { "IP":"","Port":"","Name" : "","PassWord" : ""},
+        { "IP":"","Port":"","Name" : "","PassWord" : ""},
+        { "IP":"","Port":"","Name" : "","PassWord" : ""}
+    ],
+    "redis" :[
+        { "IP":"", "Port":"", "PassWord" : "" },
+        { "IP":"", "Port":"", "PassWord" : "" },
+        { "IP":"", "Port":"", "PassWord" : "" },
+        { "IP":"", "Port":"", "PassWord" : "" }
+    ],
+    "etcd" :[
+        { "IP":"", "Port":"", "PassWord" : "" },
+        { "IP":"", "Port":"", "PassWord" : "" },
+        { "IP":"", "Port":"", "PassWord" : "" },
+        { "IP":"", "Port":"", "PassWord" : "" }
+    ],
+    "mongo" : [
+        { "IP":"","Port":"","Name" : "","PassWord" : ""},
+        { "IP":"","Port":"","Name" : "","PassWord" : ""},
+        { "IP":"","Port":"","Name" : "","PassWord" : ""},
+        { "IP":"","Port":"","Name" : "","PassWord" : ""},
+        { "IP":"","Port":"","Name" : "","PassWord" : ""}
+    ]
+}
